@@ -1,14 +1,24 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Aframe**
 
 ---
 
-### X/X/XX:
-* Text
+### 3/17/25: 
+#### Video link: https://www.youtube.com/watch?v=3JePvWQWUVs 
+
+* a-scene Are the starting and end tags used in Aframe to make your 3d design on jsbin.
+* Aframe is really similar to httml. They have similar attributes.
+* You can make your project a wireframe.
+* Aframe uses coordinate plane positioning. (x, y, z)
+* Setting the a-plane height and width to 100 will make it look like it has no limit
+* You can change the color of the sky by using a-sky
+
+* I had tried these features out on jsbin and it worked out well. The only drawback I had was getting measurements right because one color would obstruct the whole view. 
+  
 
 ### X/X/XX:
-* Text
+* 
 
 
 <!-- 
