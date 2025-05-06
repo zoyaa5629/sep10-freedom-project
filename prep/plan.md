@@ -6,9 +6,17 @@
 * [Mobile 3](https://github.com/user-attachments/assets/3d49d05a-f9c6-4764-b67c-be06f6bc78df)
 * [Mobile 4](https://github.com/user-attachments/assets/16c2cd2c-9729-4f55-a438-8498d84761ed)
 * [Mobile 5](https://github.com/user-attachments/assets/41f12e7f-0923-481a-97d7-dc9d1c5287d6)
-* [Mobile 6](https://github.com/user-attachments/assets/f370bbc4-285a-4f8b-b1cc-aa1435a12f27)
+* 
+* [Desktop 1](https://github.com/user-attachments/assets/8caa3f97-fc1b-42af-9752-085c15350d0f)
+* [Desktop 2](https://github.com/user-attachments/assets/00f22cd1-47c9-4f99-8ed7-c00aafaed519)
+* [Desktop 3](https://github.com/user-attachments/assets/83126a1b-9f19-4624-b918-4b0fa14c9fd2)
+* [Desktop 4](https://github.com/user-attachments/assets/814f7a57-37eb-471e-9ac3-e8967aa98eba)
+* [Desktop 5](https://github.com/user-attachments/assets/f38428a2-f51d-4597-9a2b-6f00b797edbc)
+* [Desktop 6](https://github.com/user-attachments/assets/1af75053-9f01-4ceb-b781-f19a6ae4afc8)
 
-* [Desktop]()
+
+
+
 
 ## Colors
 * `#ABC123`
