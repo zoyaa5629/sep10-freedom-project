@@ -1,16 +1,20 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will ask a question or open with a fact about fashion.
+Example:
+
+* The global fashion tech markeet is expected to be worth $130 billion dollars by 2030.
+* From Iron Man’s smart suit to self-lacing sneakers in Back to the Future, fashion tech has always been a sci-fi dream.
 
 ## Product
-* 
+*  I will make a yellkey of the website if anyone wants to look at it and I will include GIFs of the website.
 
 ## Process
-* 
+* I will show code snippets and screenshots of the challenges I faced while coding and complex code that I struggled with.
 
 ## Conclusion
-* 
+* I will give a couple takeaways such as learning how to priortize the content over visuals first and trying my best to achieve what I envisioned because there were a lot of times where I would almost give up adding something specific to my website.
 
 <!-- EXAMPLE
 
