@@ -4,12 +4,13 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" type="text/css" />
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&family=Boldonse&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <link rel="stylesheet" href="style.css">
         <style>
 
             /* CSS */
@@ -17,8 +18,9 @@
         </style>
         <title>Fashion</title>
     </head>
-    <body>
+    <body id="page-top">
         <!-- HTML -->
+
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container px-4 px-lg-5">
                 <a class="navbar-brand" href="#page-top">Fashion</a>
@@ -33,9 +35,11 @@
                         <li class="nav-item"><a class="nav-link" href="#newtech">New Technologies</a></li>
                         <li class="nav-item"><a class="nav-link" href="#aframe">A-frame</a></li>
                     </ul>
+
                 </div>
             </div>
         </nav>
+
 
         <header class="sketch">
             <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
@@ -67,13 +71,140 @@
 
                 <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
 
-                    <div class="col-xl-4 col-lg-5">
+                    <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
                         <div class="justify-content-center">
                             <h2>Existing Technologies</h2>
 
                         </div>
                     </div>
                 </div>
+
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+         <div class="card text-bg-dark">
+             <img src="img/sewing.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                     <h5 class="card-title">Sewing Machine</h5>
+                        <p class="card-text">The history of the sewing machine wouldn’t exist without the artistry of hand sewing. People started sewing by hand some 20,000 years ago, where the first needles were made from bones or animal horns and the thread made from animal sinew. Our inventive instinct explains the natural progression to want to improve sewing techniques and make it less laborious. Cue the Industrial Revolution in the 18th Century Europe, where the need to decrease manual sewing in factories became paramount.</p>
+                     </div>
+                </div>
+            </div>
+        <div class="col">
+            <div class="card text-bg-dark">
+                <img src="img/textile.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Textile Mills</h5>
+                            <p class="card-text">Textile mills in the 1800s were either water or steam-powered. This energy was used to quickly and efficiently turn cotton into thread for weaving and to quickly weave thread into fabric or textiles. The invention of John Kay's flying shuttle and Richard Arkwright's water-powered spinning machine allowed for the mass production of textile goods.</p>
+                        </div>
+                    </div>
+                 </div>
+      <div class="col">
+                <div class="card text-bg-dark">
+                    <img src="img/tablet.png" class="card-img-top" alt="...">
+                         <div class="card-body">
+                             <h5 class="card-title">Drawing Tablet</h5>
+                                <p class="card-text">A drawing tablet, also known as a graphics tablet, is a device consisting of a tablet, or a surface, that is sensitive to the pressure of a stylus. Paired with a stylus as a drawing tool, users draw on the tablet as if drawing on paper, as the image is shown on a computer screen.</p>
+                            </div>
+                         </div>
+                     </div>
+        <div class="col">
+            <div class="card text-bg-dark">
+                <img src="img/3d.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">3D Printing</h5>
+                            <p class="card-text">3D printing has started to make its way to high end fashion. It has been in NYFW (New York Fashion Week), PFW (Paris Fashion Week), and the Met Gala.</p>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+
+
+             <section class="newtech-section bg-light" id="newtech">
+            <div class="container px-4 px-lg-5">
+
+                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+
+                    <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+                        <div class="justify-content-center">
+                            <h2>Possible Technologies</h2>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                 <div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+         <div class="card text-bg-dark">
+             <img src="img/closet.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                     <h5 class="card-title">Closet App</h5>
+                        <p class="card-text">In the movie “Clueless” the main character Cher has an app on her computer that helps her pick an outfit that matches and tells her what looks good on her and what doesn’t
+</p>
+                     </div>
+                </div>
+            </div>
+        <div class="col">
+            <div class="card text-bg-dark">
+                <img src="img/perfume.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Personalized Perfume</h5>
+                            <p class="card-text">Perfume that smells like nothing at first but when on a person’s skin it is a scent that suits them the most</p>
+                        </div>
+                    </div>
+                 </div>
+      <div class="col">
+                <div class="card text-bg-dark">
+                    <img src="img/bag.png" class="card-img-top" alt="...">
+                         <div class="card-body">
+                             <h5 class="card-title">Extra Storage Bag</h5>
+                                <p class="card-text">Bags that are small for convenience and style but can store a lot of items like Hermione Granger’s bag in the Harry Potter movies
+</p>
+                            </div>
+                         </div>
+                     </div>
+        <div class="col">
+            <div class="card text-bg-dark">
+                <img src="img/glasses.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Glasses</h5>
+                            <p class="card-text">You can see and look through different apps like the Apple Vision Pro but in thin frame glasses like the ones people wear everyday. </p>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+
+
+            <section class="oldtech-section bg-light" id="oldtech">
+            <div class="container px-4 px-lg-5">
+
+                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+
+                    <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+                        <div class="justify-content-center">
+                            <h2>A-frame</h2>
+
+                        </div>
+                    </div>
+                </div>
+                <p>Here is a 3D model of an example of a possible fashion invention. Insipired the the movie Kingsmen, this is a ring with a blade on the side to make it a weapon.</p>
+        <div style="display: flex; justify-content: center; align-items: center;">
+             <div style="width: 1000px; height: 600px;">
+                 <a-scene embedded>
+                     <!--<a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+                    <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+                    <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+                    <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+                    <a-sky color="#ECECEC"></a-sky> -->
+
+        <a-entity camera look-controls position="0 1.6 0"></a-entity>
+            <a-torus position="-0.5 0.5 -10" color="#FFD700" radius="4" radius-tubular="0.3"></a-torus>
+            <a-dodecahedron position="-0.5 7 -10" color="#b9f2ff" radius="3"></a-dodecahedron>
+            <a-triangle position="0.5 5.05 -9.5" color="#CCC" vertex-c="5.5 -1 0"></a-triangle>
+            </a-scene>
+         </div>
+    </div>
+
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->

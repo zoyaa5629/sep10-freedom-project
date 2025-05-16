@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <style>
+     </style>
+
+        <title>Title</title>
+    </head>
+    <body>
+        <!-- HTML -->
+<head>
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-physics-system@1.4.0/dist/aframe-physics-system.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+
+      <a-entity camera look-controls position="0 1.6 0"></a-entity>
+      <a-torus position="-0.5 0.5 -10" color="#FFD700" radius="4" radius-tubular="0.3"></a-torus>
+      <a-dodecahedron position="-0.5 7 -10" color="#b9f2ff" radius="3"></a-dodecahedron>
+      <a-triangle position="0.5 5.05 -9.5" color="#CCC" vertex-c="5.5 -1 0"></a-triangle>
+
+    </a-scene>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+        <script>
+            // JS
+
+
+        </script>
+    </body>
+</html>
+
+
