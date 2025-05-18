@@ -56,8 +56,8 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
-|   |   |
+| Melody |  I love how you added your tool in your website it really brings out your topic. | I think it might be better if you changed the text color or size of your overview because it will be easier to read
+| Cammi  | I like your fixed navbar, as well as your responsive cards as the screen size gets smaller  | I think you should fix your navbar content for "A-frame" because it is not working.
 |   |   |
 |   |   |
 |   |   |
