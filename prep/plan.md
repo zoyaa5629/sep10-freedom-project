@@ -19,23 +19,31 @@
 
 
 ## Colors
-* `#ABC123`
+* `#B4F3F8`
+* `#E08DAC`
+* `#32533D`
+* `#EFD580`
+* `#E7B1BC`
 
 ## Fonts
-* [Text](URL)
+* [Roboto Mono](https://fonts.google.com/selection/embed)
 
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
-
+* Navbar/4-22
+* Title/4-25
+* Exisisting Technologies/5-6
+* Possible Technologies/5-7
+* A-frame/5-9
+* 
 ---
 
 #### Beyond MVP
 
-* Task 1
-* Task 2
+* Using CSS to color
+* Adding images 
 
 
 
