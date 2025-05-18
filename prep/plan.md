@@ -42,8 +42,9 @@
 
 #### Beyond MVP
 
-* Using CSS to color
-* Adding images 
+* Using CSS to color more
+* Adding images
+* 
 
 
 
